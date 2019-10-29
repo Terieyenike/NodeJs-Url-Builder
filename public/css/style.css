@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+header {
+  background: rgba(0, 0, 0, 1);
+  padding: 1rem;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+  top: 0;
+}
+
+a {
+  font-weight: bold;
+  text-decoration: none;
+  color: #fff;
+}
+
+main {
+  padding: 5rem 0;
+  background: #d32f2f;
+  color: white;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-top: 0;
+}
+
+p {
+  font-size: 1.5rem;
+  margin-top: 0.5rem;
+}
+
+
+
+section {
+  padding: 4rem 0;
+}
+
